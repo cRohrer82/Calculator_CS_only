@@ -1,0 +1,55 @@
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week3\myCSharp\Calculator_W3\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\5-3_ENTD463\Week4\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Desktop\myCSharp\Calculator_W4\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+C:\Users\CKRoh\Dropbox\SchoolDocuments\Completed Courses\5-3_ENTD463\Week6\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
